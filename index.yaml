@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   chartcdps:
   - apiVersion: v1
-    created: "2024-01-16T19:27:04.434999469Z"
+    created: "2024-01-16T19:55:32.125753212Z"
     description: My Helm Chart
     digest: 01661bf9bfa0e77555ab4e99a0c34bcf3e48b21ba08e05d5c02260cef518e54e
     name: chartcdps
@@ -11,7 +11,7 @@ entries:
     - chartcdps-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
-    created: "2024-01-16T19:27:04.435274497Z"
+    created: "2024-01-16T19:55:32.126005725Z"
     description: My Helm Chart
     digest: 01661bf9bfa0e77555ab4e99a0c34bcf3e48b21ba08e05d5c02260cef518e54e
     name: chartcdps
@@ -19,4 +19,4 @@ entries:
     urls:
     - chartcdps/chartcdps-1.0.0.tgz
     version: 1.0.0
-generated: "2024-01-16T19:27:04.434417629Z"
+generated: "2024-01-16T19:55:32.125192352Z"
